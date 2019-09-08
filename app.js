@@ -59,7 +59,7 @@ app.post("/", function(req, res){
     // create headers object for authentication
     // as specified in mailchimp docs, first string can be any string then seperate with space and second string is your api key
     headers: {
-      "Authorization": process.env.Authorization
+      "Authorization": "rishabh1 " + process.env.Authorization
     },
     // body will be the data we are actually posting in a stringified version
     body: jsonDataAsString
