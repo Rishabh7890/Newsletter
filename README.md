@@ -13,6 +13,7 @@ This project is to create a signup page for a newsletter. Users are able to sign
 - Mailchimp API
 
 ## First Newsletter Coming Soon!
+* [Sign Up Here!](https://burger-app-rishabh.herokuapp.com/)
 
 ## Credits
 - Rishabh Goel
