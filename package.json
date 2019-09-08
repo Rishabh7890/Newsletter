@@ -6,8 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishabh7890/Newsletter.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rishabh7890/Newsletter/issues"
+  },
+  "homepage": "https://github.com/Rishabh7890/Newsletter#readme",
   "dependencies": {
     "dotenv": "^8.1.0",
     "express": "^4.17.1",
